@@ -4,7 +4,6 @@
 
 Please refer to [install.md](docs/install.md) for installation and dataset preparation.
 
-```
 
 This is the official implement of [CRKD](configs/dis_clip_obb). if it is used in your research, please cite the following information.
 
